@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>HourzzMenuBar</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Fri, 26 Jun 2026 20:55:18 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/chilsean/hourzz-releases/releases/latest/download/Hourzz.dmg" length="3374654" type="application/octet-stream" sparkle:edSignature="V1dgBVE2PRnq9ntdK1LXcz5vS/pG91zSeepDKFBaa3avdRcY6DO3SyDa3WbHnMgYV+E8ZACC8RgJs5Yx+/ijCA=="/>
+        </item>
+    </channel>
+</rss>
